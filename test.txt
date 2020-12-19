@@ -1,0 +1,6 @@
+def hvala_rok:
+  pass
+def fala_matej:
+  pass
+def fala_petar:
+  pass
